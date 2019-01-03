@@ -9,3 +9,4 @@ A simple example that shows how to connect `graphql-shield` with `apollo-server-
 # Run
 Just clone the repo, run `npm install` and then `npm start` to start the GraphQL server on `http://localhost:3000`.
 
+![GithubLOgo](https://cdn.pbrd.co/images/HUNlLBs.png)
