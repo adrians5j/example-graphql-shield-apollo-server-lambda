@@ -3,7 +3,7 @@ A simple example that shows how to connect `graphql-shield` with `apollo-server-
 
 - [graphql-shield](https://github.com/maticzav/graphql-shield)
 - [apollo-server-lambda](https://github.com/apollographql/apollo-server/blob/master/docs/source/deployment/lambda.md)
-- [graphlq-middleware](https://github.com/prisma/graphql-middleware)
+- [graphql-middleware](https://github.com/prisma/graphql-middleware)
 
 
 # Run
